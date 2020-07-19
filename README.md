@@ -1,6 +1,4 @@
-# compiler-impl-c
-Modern Compiler Implementation in C.
-
+# Modern Compiler Implementation in C.
 
 ## Programming style
 * Conventions for representing tree Data Structure in C
